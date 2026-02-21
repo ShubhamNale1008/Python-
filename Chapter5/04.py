@@ -1,5 +1,5 @@
 # write a code to create a dictionary and take input of favorite languages from people #
-# and store them with theier name and languages as key and valur respectievely.
+# and store them with theier name and languages as key and value respectievely.
 
 
 d={} 
