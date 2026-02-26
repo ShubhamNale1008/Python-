@@ -1,2 +1,1 @@
-Python Course Practice 
-. 
+Python Course Practice ..
