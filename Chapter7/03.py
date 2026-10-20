@@ -9,6 +9,7 @@ for i in range(1,11):
 
 
 
+
 #using while loop
 num=int(input("Enter a number:"))
 i=1
